@@ -5,10 +5,10 @@ export default function HomePage(){
              <h1>
             DEVELOPED BY:
             </h1>
-            <li>Yeiko Artavia</li>
-            <li>Carlos Salas</li>
-            <li>Gregory Hidalgo</li>
-            <li>Marlon Gutiérrez V.</li>
+            <li>Maria Chacon</li>
+            <li>Dayana Gamboa</li>
+            <li>Andrey Barrios</li>
+            <li>Cristofer Barrios</li>
         </ul>
     )
 }
